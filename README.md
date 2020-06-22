@@ -1,6 +1,6 @@
-# Online-exam-system
+# e-Examination
 
-Online examination system is a app for setup online quiz with so many functionality.
+e-Examination is a app for setup online quiz with so many functionality.
 It is a PHP project.
 
 
